@@ -1,8 +1,8 @@
 ### Prazer sou o Lucas Kato
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/katojinnn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/katojinnn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/katojinnn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/katojinnn)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katojinnn&show_icons=true&theme=radical)
 
@@ -18,4 +18,4 @@
 
 ## Sobre mim:
 
-Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e jogos, 
+Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e jogos, atualmente cursando Sistemas de informação na Universidade Presbiteriana Mackenzie
