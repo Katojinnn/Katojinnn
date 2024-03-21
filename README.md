@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/katojinnn)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katojinnn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katojinnn&layout=compact)
 
 ## Tecnologias que eu tenho conhecimento
 
