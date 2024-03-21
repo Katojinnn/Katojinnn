@@ -1,13 +1,10 @@
-## Prazer sou o Lucas Kato, tenho 22 anos e sou de São Paulo, capital
-
-## Sobre mim:
-
+<h2>Olá, seja bem vindo ao meu perfil <br> <br>Me chamo Lucas Kato, tenho 22 anos e sou de São Paulo capital</h2>
+<h2>Sobre mim:</h2>
 Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e jogos, atualmente cursando Sistemas de informação na Universidade Presbiteriana Mackenzie
 
-## Linguagens que tenho conhecimento e meus stats
+<h2>Linguagens que tenho conhecimento e meus stats </h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katojinnn&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katojinnn&layout=compact)
 
 <div> 
@@ -30,7 +27,3 @@ Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e j
           
   
 </div>
-
-## Sobre mim:
-
-Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e jogos, atualmente cursando Sistemas de informação na Universidade Presbiteriana Mackenzie
