@@ -1,8 +1,7 @@
-<h1>Prazer sou o Lucas Kato</h1>
+## Prazer sou o Lucas Kato 
 <p>Estudante universitário, cursando sistemas de informação</p>
 
-
-<h1>Linguagens que tenho conhecimento e meus stats</h1>
+## Linguagens que tenho conhecimento e meus stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katojinnn&show_icons=true&theme=radical)
 
