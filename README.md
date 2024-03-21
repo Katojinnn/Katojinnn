@@ -1,5 +1,8 @@
-## Prazer sou o Lucas Kato 
-<p>Estudante universitário, cursando sistemas de informação</p>
+## Prazer sou o Lucas Kato, tenho 22 anos e sou de São Paulo, capital
+
+## Sobre mim:
+
+Desde pequeno conectado no mundo da tecnologia, apaixonado por programação e jogos, atualmente cursando Sistemas de informação na Universidade Presbiteriana Mackenzie
 
 ## Linguagens que tenho conhecimento e meus stats
 
